@@ -14,3 +14,8 @@
   ```
   
   ![image](https://github.com/ldlywt/FlycoTabLayout_AndroidX/raw/master/Image/DiyTabLayout.gif)
+
+  使用方式：
+  dependencies {
+  	        implementation 'com.github.FlyArthur:FlycoTabLayout_AndroidX:v3.0.0'
+  }
